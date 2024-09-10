@@ -1,4 +1,4 @@
-<svg width="800" height="36" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="28" xmlns="http://www.w3.org/2000/svg">
     <style>
         /* Courtesy of Geoff Graham https://css-tricks.com/snippets/css/typewriter-effect/*/ 
         .typewriter {
@@ -26,7 +26,7 @@
             50% { border-color: orange; }
           }    
     </style>
-    <foreignObject width="800" height="36">
+    <foreignObject width="800" height="28">
         <div xmlns="http://www.w3.org/1999/xhtml" style="height: 90%; width: 80%; display: flex; justify-content: center; align-items: center;">
             <h1 class="typewriter">Michael Gardner, Web Developer</h1>
         </div>
