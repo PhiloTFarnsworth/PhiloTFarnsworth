@@ -1,6 +1,7 @@
 ![](./assets/test.svg)
-## Hi there 👋
+## Hi there ![](./assets/wavingHand.svg)
 
+![](./assets/Safetytips.svg)
 <!--
 **PhiloTFarnsworth/PhiloTFarnsworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
