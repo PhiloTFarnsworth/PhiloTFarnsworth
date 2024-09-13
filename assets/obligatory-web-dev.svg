@@ -1,34 +1,70 @@
-<svg width="800" height="28" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="90" xmlns="http://www.w3.org/2000/svg">
     <style>
-        /* Courtesy of Geoff Graham https://css-tricks.com/snippets/css/typewriter-effect/*/ 
-        .typewriter {
-            overflow: hidden; /* Ensures the content is not revealed until the animation */
-            border-right: .15em solid orange; /* The typwriter cursor */
-            white-space: nowrap; /* Keeps the content on a single line */
-            margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-            letter-spacing: .15em; /* Adjust as needed */
-            animation: 
-              typing 3.5s steps(40, end),
-              blink-caret .75s step-end infinite;
-            color: white;
-            font-family: helvetica;
-          }
-          
-          /* The typing effect */
-          @keyframes typing {
-            from { width: 0 }
-            to { width: 100% }
-          }
-          
-          /* The typewriter cursor effect */
-          @keyframes blink-caret {
-            from, to { border-color: transparent }
-            50% { border-color: orange; }
-          }    
+      .container {
+        border: 5px solid blue;
+        outline: 5px solid purple;
+        height: calc(100% - 20px);
+        width: calc(100% - 20px);
+        margin: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: 11s ease-in-out fadeOutInBorder infinite, 13s ease-in-out fadeOutInOutline infinite;
+      }
+
+      .inner-container {
+        height: calc(100% - 20px);
+        width: calc(100% - 20px);
+        border: 5px solid green;
+        outline: 5px solid yellow;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: 5s ease-in-out fadeOutInBorder infinite, 7s ease-in-out fadeOutInOutline infinite;
+      }
+
+      .header {
+        color: white;
+        border: 5px solid red;
+        outline: 5px solid cyan;
+        font-family: monospace;
+        width: 100%;
+        margin: 5px;
+        padding-right: 20%;
+        padding-left: 20%;
+        animation: 2s ease-in-out fadeOutInBorder infinite, 3s ease-in-out fadeOutInOutline infinite, 10s linear floatinglabel infinite;
+      }
+
+      .developer {
+        animation: 10s ease-in-out rainbow infinite;
+      }
+
+      @keyframes rainbow {
+        20% {color: red}
+        40% {color: yellow}
+        60% {color: cyan}
+        80% {color: violet}
+      }
+
+      @keyframes floatinglabel {
+        25% {padding-left: 0%; padding-right: 40%}
+        75% {padding-left: 42%; padding-right: 0%}
+      }
+
+      @keyframes fadeOutInBorder {
+        50% {border-color: transparent;}
+      }
+
+      @keyframes fadeOutInOutline {
+        50% {outline-color: transparent;}
+      }
+
     </style>
-    <foreignObject width="800" height="28">
-        <div xmlns="http://www.w3.org/1999/xhtml" style="height: 90%; width: 80%; display: flex; justify-content: center; align-items: center;">
-            <h1 class="typewriter">Michael Gardner, Web Developer</h1>
+    <foreignObject width="780" height="90">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+          <div class="inner-container">  
+            <h1 class="header"><span class="firstname">M</span>ichael <span class="lastname">G</span>ardner, <span class="developer">D</span>eveloper</h1>
+          </div>
         </div>
     </foreignObject>
     </svg>

@@ -1,13 +1,12 @@
-![](./assets/spacer-web-dev.svg) ![](./assets/obligatory-web-dev.svg)
+![Michael Gardner, Developer](./assets/obligatory-web-dev.svg)
 
-![](./assets/wavingHand.svg) ![](./assets/CoolGuySmaller.png) ![](./assets/wavingHandRight.svg)
+> [!IMPORTANT]
+> I'm a pretty big deal
+> ![Cool Dude](./assets/CoolGuySmaller.png)
 
 # Welcome to MY SPACE!
 
 ### ☀️⛰️🌵🌵🌵 I am a full stack web developer living and working in Tucson, Arizona! 🌵🌵🌵⛰️☀️
-
-> [!IMPORTANT]
-> I'm a pretty big deal
 
 | (spacer) | Genre | Skill    |  Notes                            | 
 |---|-------|-------|-------------------------------------------|
@@ -22,7 +21,7 @@
 | | PLAY | |
 | | | Cycling | Any given day I outrun or at least draw my demons |
 | | | Movies | Given enough time, I will explain Billy Jack to you. In painful detail. |
-| | | Partying |  ![](./assets/PartyTime.png) |
+| | | Partying |  ![Party hard!](./assets/PartyTime.png) |
 
 When not gainfully employed, I like to vandalize my github profile, start projects and occasionally even finish them.
 
@@ -30,16 +29,16 @@ When not gainfully employed, I like to vandalize my github profile, start projec
 
 ### A fun portfolio website built back in 2022:
 
-[![](./assets/banner-port.svg)](https://github.com/PhiloTFarnsworth/Portfolio)
+[![Portfolio Banner](./assets/banner-port.svg)](https://github.com/PhiloTFarnsworth/Portfolio)
 
 ### A Fantasy Football League prototype:
 
-[![](./assets/banner-football.svg)](https://github.com/PhiloTFarnsworth/FantasyDraftGo)
+[![Fantasy Draft Banner](./assets/banner-football.svg)](https://github.com/PhiloTFarnsworth/FantasyDraftGo)
 
 ### An interesting tool to generate small procedural spritesheets:
 
-[![](./assets/banner-bit.svg)](https://github.com/PhiloTFarnsworth/BitSprite)
+[![Bitsprite Banner](./assets/banner-bit.svg)](https://github.com/PhiloTFarnsworth/BitSprite)
 
 # Stay Hydrated and Wear a Helmet!
 
-![](./assets/SafetyFirstTransp.png)
+![Pace yourself!](./assets/SafetyFirstTransp.png)
