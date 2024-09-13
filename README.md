@@ -8,7 +8,7 @@
 > I'm a pretty big deal
 > ![Cool Dude](./assets/CoolGuySmaller.png)
 
-### ☀️⛰️🌵🌵🌵 I am a full stack web developer living and working in Tucson, Arizona! 🌵🌵🌵⛰️☀️
+### ☀️⛰️🌵🌵🌵 I am a full stack web developer living in Tucson, Arizona! 🌵🌵🌵⛰️☀️
 
 | Genre | Skill    |  Notes                            | 
 |-------|-------|-------------------------------------------|
