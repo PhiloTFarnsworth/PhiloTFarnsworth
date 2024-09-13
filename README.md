@@ -1,10 +1,8 @@
-![Michael Gardner, Developer](./assets/obligatory-web-dev.svg)
+# ![Michael Gardner, Developer](./assets/obligatory-web-dev.svg)
 
 > [!IMPORTANT]
 > I'm a pretty big deal
 > ![Cool Dude](./assets/CoolGuySmaller.png)
-
-# Welcome to MY SPACE!
 
 ### ☀️⛰️🌵🌵🌵 I am a full stack web developer living and working in Tucson, Arizona! 🌵🌵🌵⛰️☀️
 

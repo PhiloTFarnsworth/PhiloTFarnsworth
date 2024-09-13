@@ -1,5 +1,6 @@
 <svg width="800" height="90" xmlns="http://www.w3.org/2000/svg">
-    <style>
+  /* Turns out you can smuggle animations through SVGs. */  
+  <style>
       .container {
         border: 5px solid blue;
         outline: 5px solid purple;
@@ -63,7 +64,7 @@
     <foreignObject width="780" height="90">
         <div xmlns="http://www.w3.org/1999/xhtml" class="container">
           <div class="inner-container">  
-            <h1 class="header"><span class="firstname">M</span>ichael <span class="lastname">G</span>ardner, <span class="developer">D</span>eveloper</h1>
+            <h1 class="header">Michael Gardner, <span class="developer">D</span>eveloper</h1>
           </div>
         </div>
     </foreignObject>
