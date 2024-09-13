@@ -6,20 +6,20 @@
 
 ### ☀️⛰️🌵🌵🌵 I am a full stack web developer living and working in Tucson, Arizona! 🌵🌵🌵⛰️☀️
 
-| (spacer) | Genre | Skill    |  Notes                            | 
-|---|-------|-------|-------------------------------------------|
-| | WORK     | |
-| | | Python   | Every time I need to do something with a csv |
-| | | Go | if err != nil {bad times} |
-| | | JavaScript | WASM will be replacing JS devs any day now - 2016 |
-| | | CSS      | I usually remember to remove magenta borders |
-| | | React    | Joyfully participating in the class vs. hook cycle  |
-| | | Docker   | Deprived myself of the excuse "It works on my computer".  Mostly. | 
-| | | Git | I push, I pull, I usually explain why |
-| | PLAY | |
-| | | Cycling | Any given day I outrun or at least draw my demons |
-| | | Movies | Given enough time, I will explain Billy Jack to you. In painful detail. |
-| | | Partying |  ![Party hard!](./assets/PartyTime.png) |
+| Genre | Skill    |  Notes                            | 
+|-------|-------|-------------------------------------------|
+| WORK     | |
+| | Python   | Every time I need to do something with a csv |
+| | Go | if err != nil {bad times} |
+| | JavaScript | WASM will be replacing JS devs any day now - 2016 |
+| | CSS      | I usually remember to remove magenta borders |
+| | React    | Joyfully participating in the class vs. hook cycle  |
+| | Docker   | Deprived myself of the excuse "It works on my computer".  Mostly. | 
+| | Git | I push, I pull, I usually explain why |
+| PLAY | |
+| | Cycling | Any given day I outpace or at least draw my demons |
+| | Movies | Given enough time, I will explain Billy Jack to you. In painful detail. |
+| | Partying |  ![Party hard!](./assets/PartyTime.png) |
 
 When not gainfully employed, I like to vandalize my github profile, start projects and occasionally even finish them.
 
