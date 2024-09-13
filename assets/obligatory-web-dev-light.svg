@@ -1,0 +1,71 @@
+<svg width="800" height="90" xmlns="http://www.w3.org/2000/svg">
+  /* Turns out you can smuggle animations through SVGs. */  
+  <style>
+      .container {
+        border: 5px solid blue;
+        outline: 5px solid purple;
+        height: calc(100% - 20px);
+        width: calc(100% - 20px);
+        margin: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: 11s ease-in-out fadeOutInBorder infinite, 13s ease-in-out fadeOutInOutline infinite;
+      }
+
+      .inner-container {
+        height: calc(100% - 20px);
+        width: calc(100% - 20px);
+        border: 5px solid green;
+        outline: 5px solid yellow;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: 5s ease-in-out fadeOutInBorder infinite, 7s ease-in-out fadeOutInOutline infinite;
+      }
+
+      .header {
+        color: black;
+        border: 5px solid red;
+        outline: 5px solid cyan;
+        font-family: monospace;
+        width: 100%;
+        margin: 5px;
+        padding-right: 20%;
+        padding-left: 20%;
+        animation: 2s ease-in-out fadeOutInBorder infinite, 3s ease-in-out fadeOutInOutline infinite, 10s linear floatinglabel infinite;
+      }
+
+      .developer {
+        animation: 10s ease-in-out rainbow infinite;
+      }
+
+      @keyframes rainbow {
+        20% {color: red}
+        40% {color: yellow}
+        60% {color: cyan}
+        80% {color: violet}
+      }
+
+      @keyframes floatinglabel {
+        25% {padding-left: 0%; padding-right: 40%}
+        75% {padding-left: 42%; padding-right: 0%}
+      }
+
+      @keyframes fadeOutInBorder {
+        50% {border-color: transparent;}
+      }
+
+      @keyframes fadeOutInOutline {
+        50% {outline-color: transparent;}
+      }
+
+    </style>
+    <foreignObject width="780" height="90">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+          <div class="inner-container">  
+            <h1 class="header">Michael Gardner, <span class="developer">D</span>eveloper</h1>
+          </div>
+        </div>
+    </foreignObject>
+    </svg>

@@ -1,4 +1,8 @@
-# ![Michael Gardner, Developer](./assets/obligatory-web-dev.svg)
+# <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/obligatory-web-dev.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/obligatory-web-dev-light.svg">
+  <img alt="Michael Gardner, Developer" src="./assets/obligatory-web-dev.svg">
+</picture>
 
 > [!IMPORTANT]
 > I'm a pretty big deal
