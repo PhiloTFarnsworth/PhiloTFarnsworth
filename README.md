@@ -43,6 +43,3 @@ When not gainfully employed, I like to vandalize my github profile, start projec
 
 [![Bitsprite Banner](./assets/banner-bit.svg)](https://github.com/PhiloTFarnsworth/BitSprite)
 
-# Stay Hydrated and Wear a Helmet!
-
-![Pace yourself!](./assets/SafetyFirstTransp.png)
