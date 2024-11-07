@@ -23,7 +23,6 @@
 | PLAY | |
 | | Cycling | Any given day I outpace or at least draw my demons |
 | | Movies | Given enough time, I will explain Billy Jack to you. In painful detail. |
-| | Partying |  ![Party hard!](./assets/PartyTime.png) |
 
 When not gainfully employed, I like to vandalize my github profile, start projects and occasionally even finish them.
 
