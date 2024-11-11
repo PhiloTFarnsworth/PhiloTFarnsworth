@@ -4,9 +4,9 @@
   <img alt="Michael Gardner, Developer" src="./assets/obligatory-web-dev.svg">
 </picture>
 
-![Cool Dude](./assets/CoolGuySmaller.png)
-### ☀️⛰️🌵🌵🌵 I am a full stack web developer living in Tucson, Arizona! 🌵🌵🌵⛰️☀️
 
+### ☀️⛰️🌵🌵🌵 I am a full stack web developer living in Tucson, Arizona! 🌵🌵🌵⛰️☀️
+![Cool Dude](./assets/CoolGuySmaller.png)
 | Genre | Skill    |  Notes                            | 
 |-------|-------|-------------------------------------------|
 | WORK     | |
