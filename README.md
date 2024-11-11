@@ -5,10 +5,6 @@
 </picture>
 
 ![Cool Dude](./assets/CoolGuySmaller.png)
-> [!IMPORTANT]
->  
-
-
 ### ☀️⛰️🌵🌵🌵 I am a full stack web developer living in Tucson, Arizona! 🌵🌵🌵⛰️☀️
 
 | Genre | Skill    |  Notes                            | 
