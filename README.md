@@ -4,9 +4,10 @@
   <img alt="Michael Gardner, Developer" src="./assets/obligatory-web-dev.svg">
 </picture>
 
+![Cool Dude](./assets/CoolGuySmaller.png)
 > [!IMPORTANT]
-> I'm a pretty big deal
-> ![Cool Dude](./assets/CoolGuySmaller.png)
+>  
+
 
 ### ☀️⛰️🌵🌵🌵 I am a full stack web developer living in Tucson, Arizona! 🌵🌵🌵⛰️☀️
 
