@@ -22,18 +22,3 @@
 When not gainfully employed, I like to vandalize my github profile, start projects and occasionally even finish them.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhiloTFarnsworth&layout=compact&size_weight=.1&count_weight=.9)](https://github.com/anuraghazra/github-readme-stats)
-
-## Some of my favorite personal projects:
-
-### A fun portfolio website built back in 2022:
-
-[![Portfolio Banner](./assets/banner-port.svg)](https://github.com/PhiloTFarnsworth/Portfolio)
-
-### A Fantasy Football League prototype:
-
-[![Fantasy Draft Banner](./assets/banner-football.svg)](https://github.com/PhiloTFarnsworth/FantasyDraftGo)
-
-### An interesting tool to generate small procedural spritesheets:
-
-[![Bitsprite Banner](./assets/banner-bit.svg)](https://github.com/PhiloTFarnsworth/BitSprite)
-
