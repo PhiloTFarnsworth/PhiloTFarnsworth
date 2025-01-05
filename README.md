@@ -9,7 +9,7 @@
 |-------|-------|-------------------------------------------|
 | WORK     | |
 | | Python   | Every time I need to do something with a csv |
-| | Go | if err != nil {bad times} |
+| | Go | if err == nil {bad times} |
 | | JavaScript | WASM will be replacing JS devs any day now - 2016 |
 | | CSS      | I usually remember to remove magenta borders |
 | | React    | Joyfully participating in the class vs. hook cycle  |
