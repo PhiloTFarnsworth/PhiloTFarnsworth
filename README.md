@@ -3,6 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/obligatory-web-dev-light.svg">
   <img alt="Michael Gardner, Developer" src="./assets/obligatory-web-dev.svg">
 </picture>
+<sub><sup>The above is not responsive for whatever reason, fix it github!!!</sup></sub>
 
 ### ☀️⛰️🌵🌵🌵 I am a full stack web developer living in Tucson, Arizona! 🌵🌵🌵⛰️☀️
 | Genre | Skill    |  Notes                            | 
